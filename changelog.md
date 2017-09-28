@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - echo subfolder in controllers subfolder
 - Must controller
+### Updated
+- Navagation target link Echo to /echo/must/wehave
 
 ## [1.2.0] - 2017-09-28 - GY (Mate)
 ### Added
