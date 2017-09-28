@@ -11,7 +11,7 @@ class Force extends Application
 
 	/**
 	 * Default page for Force controller
-	 * target link is /detla/force
+	 * target link is /delta/force
 	 */
 	public function index()
 	{

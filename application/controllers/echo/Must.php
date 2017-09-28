@@ -10,10 +10,10 @@ class Must extends Application
 	}
 
 	/**
-	 * Default page for Force controller
-	 * target link is /detla/force
+	 * Default page for Must controller
+	 * target link is /echo/must/wehave
 	 */
-	public function index()
+	public function wehave()
 	{
 		$this->show(5);
 	}
