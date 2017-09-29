@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Alpha controller in controller folder
 ### Updated
-- Navagation target link Alpha to /alpha
+- Navagation target link Alpha to /albe
 
 ## [1.3.0] - 2017/09/08 - DH (Mate)
 ### Added
