@@ -4,10 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [1.9.0] - 2017-09-30 - DH (Mate)
+### Added
+- kilo target link '/show/2' to config.php
+- routing rule to routes.php mapping 'show/(:any)' to Welcome controller
+### Updated
+- typo in [1.8.0] changelog entry 'routs.php' to 'routes.php'
+
 ## [1.8.0] - 2017-09-30 - DH (Mate)
 ### Added
 - foxtrot target link '/foxtrot' to config.php
-- routing rule to routs.php mapping '/foxtrot' request to Tango controller
+- routing rule to routes.php mapping '/foxtrot' request to Tango controller
 - Tango controller
 
 ## [1.7.0] - 2017-09-30 - GY (Mate)
