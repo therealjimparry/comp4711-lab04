@@ -5,12 +5,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
-## [1.5.0] - 2017-09-29 - GY (Mate)
+## [1.6.0] - 2017-09-29 - GY (Mate)
 ### Added
-- Golf controller in controller folder
-- New route added for i/(.*) to point to golf in Routes.php
+- New route added for (bananas)/(rule) to point to golf in Routes.php
 ### Updated
-- Navigation target link Golf to /i/need/a/hobby
+- Navigation target link Hotel to /bananas/rule
 
 ## [1.5.0] - 2017-09-28 - GY (Mate)
 ### Added
