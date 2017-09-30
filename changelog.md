@@ -4,12 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+## [1.5.0] - 2017-09-29 - GY (Mate)
+### Added
+- Golf controller in controller folder
+- New route added for i/(.*) to point to golf in Routes.php
+### Updated
+- Navigation target link Golf to /i/need/a/hobby
+
 ## [1.5.0] - 2017-09-28 - GY (Mate)
 ### Added
 - Charlie controller in controller folder
 ### Updated
 - Navigation target link Charlie to /charlie/brown
-
 
 ## [1.4.0] - 2017-09-28 - GY (Mate)
 ### Added
