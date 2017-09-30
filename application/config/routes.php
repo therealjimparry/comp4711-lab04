@@ -56,3 +56,4 @@ $route['i/(.*)'] = 'golf';
 $route['(bananas)/(rule)'] = function($fruit,$verb) {
     return 'golf';
 };
+$route['foxtrot'] = 'tango';
